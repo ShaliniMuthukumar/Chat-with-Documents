@@ -10,5 +10,6 @@ tiktoken
 pypdf
 textloader
 pdfplumber
-chromadb
+chromadb>=3.35.0
+
 
