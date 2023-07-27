@@ -77,7 +77,7 @@
 
 
 # Importing the necessary packages
-import langchain
+
 from langchain.embeddings.openai import OpenAIEmbeddings #Used for embedding the data
 from langchain.vectorstores import Chroma #Stores the embedded data 
 import streamlit as st
