@@ -12,5 +12,5 @@ pypdf
 textloader
 pdfplumber
 chromadb
-sqlite>=3.35.0
+
 
