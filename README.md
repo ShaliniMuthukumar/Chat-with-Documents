@@ -16,7 +16,10 @@ It also extracts data about the images and  users may ask questions about the im
 
 Sample Result : 
 
-<img width="692" alt="image" src="https://github.com/ShaliniMuthukumar/Chat-with-Documents/assets/106624891/cef3a8be-88c6-4ca1-81b9-5ea4c489cd09">
+
+
+<img width="575" alt="image" src="https://github.com/ShaliniMuthukumar/Chat-with-Documents/assets/106624891/23e6070a-396d-42df-827c-a62320654d76">
+
 
 
 <img width="569" alt="image" src="https://github.com/ShaliniMuthukumar/Chat-with-Documents/assets/106624891/5aaae660-e1ac-498e-b03d-39a5fd6b7b52">
