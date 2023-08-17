@@ -16,13 +16,18 @@ It also extracts data about the images and  users may ask questions about the im
 
 Sample Result : 
 
+<img width="407" alt="image" src="https://github.com/ShaliniMuthukumar/Chat-with-Documents/assets/106624891/5bda35a4-55cd-4037-aa41-cf3ba52dd3c9">
 
+<img width="569" alt="image" src="https://github.com/ShaliniMuthukumar/Chat-with-Documents/assets/106624891/5aaae660-e1ac-498e-b03d-39a5fd6b7b52">
 
+<img width="569" alt="image" src="https://github.com/ShaliniMuthukumar/Chat-with-Documents/assets/106624891/0e35b3cc-180c-4f09-89d8-70a09a15979b">
 
 
 
 
 Here the user query was indicated as YOU and the RAG result was indicated as BOT.
+
+<img width="566" alt="image" src="https://github.com/ShaliniMuthukumar/Chat-with-Documents/assets/106624891/51e3dfb4-e1b1-451e-b82b-2f80e9e95287">
 
 
 
